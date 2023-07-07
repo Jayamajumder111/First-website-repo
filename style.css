@@ -64,3 +64,23 @@
     background-color: darkblue;
     
 }
+.about-container{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row-reverse;
+    padding:10px;
+}
+.about-title{
+    text-align: center;
+    padding-top: 20px;
+}
+.title-1{
+    font-size:35px;
+    font-weight:bold;
+}
+.description-p{
+    font-size: 20px;
+    margin-top:7px;
+    margin-bottom:7px;
+}
